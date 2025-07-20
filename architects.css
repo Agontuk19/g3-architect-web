@@ -31,6 +31,9 @@ body {
     border: none;
     border-radius: 10px;
 }
+.btn-primary:hover {
+    background-color: black;
+}
 main {
     max-width: 1440px;
     margin: 0 auto;
